@@ -1,0 +1,4 @@
+/* cara untuk cek khodam anda 
+  masukan nama panjang anda atau nama panggilan anda
+  setelah itu klik cek khodam
+  lalu nanti akan keluar nama khodam anda wkwk */
