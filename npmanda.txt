@@ -1,0 +1,3 @@
+NO.REG   : 18XXXXX
+Nama     : Nama Anda
+Jurusan  : Program Studi Anda
